@@ -1,9 +1,9 @@
-# HOT Humanitarian Data Handbook
+# MapUganda Handbook
 
 ## What is this?
-This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository—for the moment on [GitHub](https://github.com)—as an open-by-default tool for the [Humanitarian OpenStreetMap Team (HOT)](https://hotosm.org) Humanitarian Data team.
+This repository is an experiment in using a [Git](https://en.wikipedia.org/wiki/Git) repository—for the moment on [GitHub](https://github.com)—as an open-by-default tool for the [MapUganda](https://mapuganda.org) team.
 
-It's intended to provide a single starting point for information, explanations, and resources needed to understand and manage our projects. 
+It's intended to provide a single starting point for information, explanations, and resources needed to understand and manage our projects.
 
 __"Open by default"__ means everything here is open to _the entire world_ unless there is a specific reason to restrict access (normally personally identifiable, sensitive, or private information). It is intended to be shared and collaboratively edited by anyone in or outside of the host organization.
 
@@ -16,7 +16,7 @@ _Why not folders in Google Docs?_ Mostly because it becomes tricky to know where
 
 However, nothing about this specifically prohibits—or even discourages—the use of Wikis or Google Docs. As long as the Handbook contains a link to the relevant Wiki or Doc, it's perfectly all right to use either.
 
-We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges many of us at HOT have faced. 
+We've taken some inspiration from [GitLabs' handbook](https://about.gitlab.com/handbook/handbook-usage/); that company has taken a remarkably open approach to their internal workings, in part in response to some of the same challenges many of us at MapUganda have faced. 
 
 ## How does it work?
 It's basically a Git repo full of [Markdown](https://en.wikipedia.org/wiki/Markdown) documents (like the one you're reading right now) that explain projects and processes, and contain links to relevant resources. For a reader, it's not much different from a wiki; the difference lies in how edits are proposed, merged, tracked, and managed.
