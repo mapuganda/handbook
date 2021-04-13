@@ -1,3 +1,5 @@
+
+![MAPUGANDA LOGO](images/mapuganda.jpg)
 # MapUganda Handbook
 
 ## What is this?
