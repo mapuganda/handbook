@@ -2,7 +2,7 @@ Template for project documentation in Github
 
 # SECTION 1: PROJECT ONSET
 
-| Project details | |
+| Project details |Uganda Photomapping Project |
 | -------- | -------- |
 | Location | text |
 | Start / end date| text|
